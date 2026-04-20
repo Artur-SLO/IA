@@ -1,0 +1,7 @@
+##[pylyzer] failed /home/slower/Documents/IA/pokemon_dex/src/pokemon.py 1776719453 335
+.requests = pyimport "requests"
+
+.___v_desugar_1: Never
+.randint: Never
+.random_pokemon: () -> NoneType
+
